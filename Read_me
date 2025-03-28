@@ -1,0 +1,11 @@
+Install the necessary Python libraries:
+        ```sh
+          pip install transformers streamlit PyPDF2 python-docx
+
+
+
+Running the App
+
+Save the code in a file, e.g., app.py, and run it using Streamlit:
+```sh 
+        streamlit run app.py
